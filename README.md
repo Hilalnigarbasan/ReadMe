@@ -1,6 +1,5 @@
 ![walking-code (1)](https://user-images.githubusercontent.com/115906811/219977481-743debdd-e22a-47e5-8054-7e4b6b0e4b90.gif)
-![software](https://user-images.githubusercontent.com/115906811/220195826-709e6dd0-66be-4fe1-a9df-9e3b166401e2.gif)
-
+![software](https://user-images.githubusercontent.com/115906811/220196798-a0ca96a3-f956-470a-93d5-167b19d618ff.gif)
 
 
 ![QA Engineer and Development](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
